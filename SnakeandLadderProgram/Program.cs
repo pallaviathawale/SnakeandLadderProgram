@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+
             const int Snake = 0;
             const int Ladder = 1;
             const int NoGame = 2;
@@ -38,8 +39,11 @@
                     Console.WriteLine("Player 1 position : " + position);
                     break;
 
+
+
             }
         }
     }
- }   
+}
+
  
