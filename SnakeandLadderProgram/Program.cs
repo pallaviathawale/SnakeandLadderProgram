@@ -37,8 +37,9 @@
                     Console.WriteLine("Its a NoGame");
                     Console.WriteLine("Player 1 position : " + position);
                     break;
+
             }
         }
     }
-}
+ }   
  
